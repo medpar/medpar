@@ -1,6 +1,6 @@
 # Mario Medrano Paredes
 
-**Electrical & ML Engineer · Researcher · Builder**
+**Electrical & ML Engineer · Researcher · Founder**
 
 I'm an Electrical Engineer specializing in telecommunications, AI agents, and computer vision, with a background that also covers signal processing, RF systems, and IoT hardware. I'm drawn to research, startups, and building innovative projects, and I especially enjoy the challenge of taking ideas from experimentation to working products.
 
