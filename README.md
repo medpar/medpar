@@ -2,7 +2,9 @@
 
 **Electrical & ML Engineer · Researcher · Builder**
 
-Electrical Engineer specializing in telecommunications, AI agents, and computer vision — with a background in signal processing, RF systems, and IoT hardware. I'm drawn to research, startups, and taking ideas from experimentation to working products. Currently pursuing an MSc at the University of Valladolid while running [Caudals](https://medpar.dev), a B2B AI dataset marketplace, and publishing research on biomechanical analysis and pose estimation.
+I'm an Electrical Engineer specializing in telecommunications, AI agents, and computer vision, with a background that also covers signal processing, RF systems, and IoT hardware. I'm drawn to research, startups, and building innovative projects, and I especially enjoy the challenge of taking ideas from experimentation to working products.
+
+I thrive in collaborative environments that value continuous learning and technically demanding work, and I'm passionate about the intersection of engineering, data, and applied intelligence. Currently running [Caudals](https://medpar.dev), a B2B AI dataset marketplace, and publishing research on biomechanical analysis and pose estimation.
 
 [![Portfolio](https://img.shields.io/badge/medpar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://medpar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medpar/)
