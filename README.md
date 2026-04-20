@@ -13,7 +13,8 @@ Electrical Engineer specializing in telecommunications, AI agents, and computer 
 ## What I'm Building
 
 - **[Caudals](https://medpar.dev)** — A B2B AI dataset marketplace helping companies monetize proprietary data and AI teams acquire clean, compliant, ML-ready datasets. Services span feasibility studies, rights and privacy review, preprocessing, anonymization, labeling, QA, and delivery.
-- **Research at UVa** — Benchmarking state-of-the-art 3D human pose estimators against IMU-based references for telerehabilitation applications in daily living activities.
+- **Research at University of Valladolid** — Researcher at the Telematics and Image Group, Dept. of Signal Theory, Communications and Telematics Engineering, UVa. Benchmarking state-of-the-art 3D human pose estimators against IMU-based references for telerehabilitation applications in daily living activities. 
+
 
 ---
 
@@ -118,5 +119,3 @@ Designed a 4-stacked PCB system with a Lattice iCE40HX4K FPGA (RISC-V), environm
 `Spanish` Native · `English` C2 · `French` B2 · `German` B1
 
 ---
-
-*Researcher at the Telematics and Image Group, Dept. of Signal Theory, Communications and Telematics Engineering, University of Valladolid.*
