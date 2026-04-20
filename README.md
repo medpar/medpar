@@ -108,11 +108,10 @@ Benchmarked MotionAGFormer, MotionBERT, VideoPose3D/MMPose, and NVIDIA BodyTrack
 
 ## Certifications
 
-- IBM Data Analyst Specialization (2025)
+- IBM Data Analyst Specialization – IBM (2025)
 - Machine Learning Specialization — DeepLearning.AI (2025)
 - Fundamentals of Deep Learning — NVIDIA (2024)
 - Computer Vision Certification — UVaIA Center (2024)
-- Certificate of Proficiency in English C2 — University of Cambridge (2021)
 
 ---
 
