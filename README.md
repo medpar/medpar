@@ -1,6 +1,6 @@
 # Mario Medrano Paredes
 
-**AI/ML Engineer · Researcher · Founder**
+**AI/ML Engineer**
 
 I'm a Telecommunications Engineer specializing in LLMs, AI agents and computer vision, with a background that also covers signal processing, RF systems, and IoT hardware. I'm drawn to research, startups, and building innovative projects, and I especially enjoy the challenge of taking ideas from experimentation to working products.
 
