@@ -6,7 +6,7 @@ I'm a Telecommunications Engineer specializing in LLMs, AI agents and computer v
 
 I thrive in collaborative environments that value continuous learning and technically demanding work, and I'm passionate about the intersection of engineering, data, and applied intelligence. I am currently running Caudals, a B2B AI dataset marketplace, and publishing research on biomechanical analysis and pose estimation.
 
-[![Portfolio](https://img.shields.io/badge/medpar.dev-000000?style=flat&logo=vercel&logoColor=white)](https://medpar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://medpar.vercelapp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medpar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariomedpar@gmail.com)
 
