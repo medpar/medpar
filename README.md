@@ -47,15 +47,15 @@ I thrive in collaborative environments that value continuous learning and techni
 
 ## Featured Projects
 
-### [Human Pose Estimation & Gait Segmentation](https://github.com/medpar/TFG)
+### [Human Pose Estimation & Gait Segmentation](https://github.com/medpar/Gait-Segmentation-Model)
 
 A computer-vision and biomechanics pipeline that benchmarks 3D human pose estimation models (MotionAGFormer, MotionBERT, MMPose, BodyTrack) against IMU references, then trains a BiLSTM to segment gait into stance, swing, and turn phases from monocular video.
 
-### [LTE Connected Autonomous Vehicle](https://github.com/medpar/TP2)
+### [LTE Connected Autonomous Vehicle](https://github.com/medpar/Autonomous-Connected-Vehicle)
 
 An end-to-end connected-vehicle demonstrator over a private 4G/LTE network: a vehicle streams camera and sensor data to an EPC-side runtime that runs traffic-sign detection, lane and LiDAR assistance, and a deterministic driving controller, sending steering and throttle commands back over the radio link.
 
-### [LoRa Environmental IoT Datalogger](https://github.com/medpar/TP1)
+### [LoRa Environmental IoT Datalogger](https://github.com/medpar/LoRa-IoT-Datalogger)
 
 A full-stack IoT sensor node built around a RISC-V soft core on a Lattice iCE40 FPGA, with custom four-board PCB design, embedded C firmware, multi-sensor acquisition, and LoRa telemetry at 868 MHz — from schematic to validated wireless link.
 
