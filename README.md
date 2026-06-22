@@ -63,6 +63,6 @@ A full-stack IoT sensor node built around a RISC-V soft core on a Lattice iCE40 
 
 ## Languages
 
-`Spanish` Native · `English` C2 · `French` B2 · `German` B1
+🇪🇸 Spanish (Native) · 🇺🇸 English (C2) · 🇫🇷 French (B2) · 🇩🇪 German (B1)
 
 ---
