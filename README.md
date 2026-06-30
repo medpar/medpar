@@ -12,6 +12,32 @@ I thrive in collaborative environments that value continuous learning and techni
 
 ---
 
+## Featured Projects
+
+### [Caudals — B2B AI Dataset Marketplace](https://caudals.com)
+
+A cofounded startup and managed data-operations company that connects companies owning proprietary data with AI teams that need clean, compliant, ML-ready datasets. Caudals handles the messy middle — sourcing, rights and privacy review, cleaning, anonymization, curation, labeling, QA, and delivery — turning raw company data into training, fine-tuning, and evaluation datasets through a marketplace and high-touch managed service.
+
+### [Human Pose Estimation & Gait Segmentation](https://github.com/medpar/Gait-Segmentation-Model)
+
+A computer-vision and biomechanics pipeline that benchmarks 3D human pose estimation models (MotionAGFormer, MotionBERT, MMPose, BodyTrack) against IMU references, then trains a BiLSTM to segment gait into stance, swing, and turn phases from monocular video.
+
+### [LTE Connected Autonomous Vehicle](https://github.com/medpar/Autonomous-Connected-Vehicle)
+
+An end-to-end connected-vehicle demonstrator over a private 4G/LTE network: a vehicle streams camera and sensor data to an EPC-side runtime that runs traffic-sign detection, lane and LiDAR assistance, and a deterministic driving controller, sending steering and throttle commands back over the radio link.
+
+### [LoRa Environmental IoT Datalogger](https://github.com/medpar/LoRa-IoT-Datalogger)
+
+A full-stack IoT sensor node built around a RISC-V soft core on a Lattice iCE40 FPGA, with custom four-board PCB design, embedded C firmware, multi-sensor acquisition, and LoRa telemetry at 868 MHz — from schematic to validated wireless link.
+
+---
+
+## Languages
+
+`Spanish` Native · `English` C2 · `French` B2 · `German` B1
+
+---
+
 ## Tech Stack
 
 **AI / ML**
@@ -42,27 +68,5 @@ I thrive in collaborative environments that value continuous learning and techni
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
----
-
-## Featured Projects
-
-### [Human Pose Estimation & Gait Segmentation](https://github.com/medpar/Gait-Segmentation-Model)
-
-A computer-vision and biomechanics pipeline that benchmarks 3D human pose estimation models (MotionAGFormer, MotionBERT, MMPose, BodyTrack) against IMU references, then trains a BiLSTM to segment gait into stance, swing, and turn phases from monocular video.
-
-### [LTE Connected Autonomous Vehicle](https://github.com/medpar/Autonomous-Connected-Vehicle)
-
-An end-to-end connected-vehicle demonstrator over a private 4G/LTE network: a vehicle streams camera and sensor data to an EPC-side runtime that runs traffic-sign detection, lane and LiDAR assistance, and a deterministic driving controller, sending steering and throttle commands back over the radio link.
-
-### [LoRa Environmental IoT Datalogger](https://github.com/medpar/LoRa-IoT-Datalogger)
-
-A full-stack IoT sensor node built around a RISC-V soft core on a Lattice iCE40 FPGA, with custom four-board PCB design, embedded C firmware, multi-sensor acquisition, and LoRa telemetry at 868 MHz — from schematic to validated wireless link.
-
----
-
-## Languages
-
-`Spanish` Native · `English` C2 · `French` B2 · `German` B1
 
 ---
