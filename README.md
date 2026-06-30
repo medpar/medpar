@@ -6,17 +6,17 @@ I'm a Telecommunications Engineer specializing in LLMs, AI agents and computer v
 
 I thrive in collaborative environments that value continuous learning and technically demanding work, and I'm passionate about the intersection of engineering, data, and applied intelligence.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://medpar.vercelapp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medpar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mariomedpar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)](https://medpar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/medpar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat)](mailto:mariomedpar@gmail.com)
 
 ---
 
 ## Featured Projects
 
-### [Caudals: B2B AI Dataset Marketplace](https://caudals.com)
+### [Caudals: AI Data Startup](https://caudals.com)
 
-A cofounded startup and managed data-operations company that connects companies owning proprietary data with AI teams that need clean, compliant, ML-ready datasets. Caudals handles the messy middle: sourcing, rights and privacy review, cleaning, anonymization, curation, labeling, QA, and delivery, turning raw company data into training, fine-tuning, and evaluation datasets through a marketplace and high-touch managed service.
+A cofounded AI data startup that connects companies owning proprietary data with AI teams that need clean, compliant, ML-ready datasets. Caudals handles the messy middle: sourcing, rights and privacy review, cleaning, anonymization, curation, labeling, QA, and delivery, turning raw company data into training, fine-tuning, and evaluation datasets.
 
 ### [Human Pose Estimation & Gait Segmentation](https://github.com/medpar/Gait-Segmentation-Model)
 
