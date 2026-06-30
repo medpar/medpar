@@ -4,7 +4,7 @@
 
 I'm a Telecommunications Engineer specializing in LLMs, AI agents and computer vision, with a background that also covers signal processing, RF systems, and IoT hardware. I'm drawn to research, startups, and building innovative projects, and I especially enjoy the challenge of taking ideas from experimentation to working products.
 
-I thrive in collaborative environments that value continuous learning and technically demanding work, and I'm passionate about the intersection of engineering, data, and applied intelligence. I am currently running Caudals, a B2B AI dataset marketplace, and publishing research on biomechanical analysis and pose estimation.
+I thrive in collaborative environments that value continuous learning and technically demanding work, and I'm passionate about the intersection of engineering, data, and applied intelligence.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://medpar.vercelapp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medpar/)
@@ -34,7 +34,7 @@ A full-stack IoT sensor node built around a RISC-V soft core on a Lattice iCE40 
 
 ## Languages
 
-`Spanish` Native · `English` C2 · `French` B2 · `German` B1
+🇪🇸 Spanish (Native) · 🇺🇸 English (C2) · 🇫🇷 French (B2) · 🇩🇪 German (B1)
 
 ---
 
